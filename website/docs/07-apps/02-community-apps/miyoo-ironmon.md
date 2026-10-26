@@ -11,7 +11,11 @@ description: FireRed Standard IronMON with the original Tracker and on-device re
 [**Download**](https://github.com/TrissyGE/miyoo-ironmon/releases/latest) ·
 [**Installation guide**](https://github.com/TrissyGE/miyoo-ironmon/blob/main/INSTALL.md)
 
-![FireRed and the original Ironmon Tracker on Miyoo Mini Plus](https://raw.githubusercontent.com/TrissyGE/miyoo-ironmon/9570265852b4b171e936ad55864d3cdaeaf9ca50/docs/images/battle-own.png)
+<img
+  src="https://raw.githubusercontent.com/TrissyGE/miyoo-ironmon/9570265852b4b171e936ad55864d3cdaeaf9ca50/docs/images/battle-own.png"
+  alt="FireRed and the original Ironmon Tracker on Miyoo Mini Plus"
+  width="640" height="480"
+/>
 
 Play FireRed Standard IronMON on a Miyoo Mini Plus with the original Ironmon
 Tracker beside or below the game. The app uses Onion's gpSP core, prepares
